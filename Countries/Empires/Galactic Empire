@@ -15,9 +15,9 @@ Galactic Empire has a nobility that is either directly or indirectly connected t
 the empire.
 These titles are
 - Emperor/Empress : Biggest form of nobility. Controls the galaxy and the empire. Is inherited by the biggest child of the Emperor/Empress after their death.
-- Despot/Despotess(?)
-- Count/Countess
-- Duke/Duches
-- Baron/Baroness
-- Knight/Dame
-- Private
+- Despot/Despotess(?) : Nobility rank that is just under the emporer. Controls a star cluster.
+- Count/Countess : Controls a star. Workd under the Despot/Despotess 
+- Duke/Duches : Controls a planet under the Count/Countess.
+- Baron/Baroness : Works under the Duke/Duchess. Controls one or several moons.
+- Knight/Dame : Controller and the enforcer of law in settlements. Controls one or more privates.
+- Private : Smallest form of nobility. Is the lead of squad. One or more squads can be present in the same settlement.
